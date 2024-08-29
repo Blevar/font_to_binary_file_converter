@@ -1,0 +1,20 @@
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\Pico Binary Image Generator.exe
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\Pico Binary Image Generator.deps.json
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\Pico Binary Image Generator.runtimeconfig.json
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\Pico Binary Image Generator.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\Pico Binary Image Generator.pdb
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\System.Private.Windows.Core.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.csproj.AssemblyReference.cache
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.AssemblyInfoInputs.cache
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.AssemblyInfo.cs
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.csproj.CoreCompileInputs.cache
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Bin.4D21CF35.Up2Date
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\refint\Pico Binary Image Generator.dll
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.pdb
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\Pico Binary Image Generator.genruntimeconfig.cache
+I:\Dokumenty\Programy\PicoBinGen\Pico Binary Image Generator\obj\Debug\net8.0\ref\Pico Binary Image Generator.dll

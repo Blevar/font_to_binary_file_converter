@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dn8a2cuuVVen2WNL1eU6CBqY7pcgPpZ+Kjki40OrcN79QpcTcDgnr32eD3XCm8AMT7Kps/nNi0F3cIpZ7y/3Vw==",
+  "success": true,
+  "projectFilePath": "I:\\Dokumenty\\Programy\\PicoBinGen\\Pico Binary Image Generator\\Pico Binary Image Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0-preview.6.24327.7\\microsoft.win32.systemevents.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "C:\\Users\\Jasiek\\.nuget\\packages\\system.drawing.common\\9.0.0-preview.6.24327.6\\system.drawing.common.9.0.0-preview.6.24327.6.nupkg.sha512"
+  ],
+  "logs": []
+}
